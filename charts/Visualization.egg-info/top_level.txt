@@ -1,0 +1,5 @@
+BarChart
+HeatMap
+LineChart
+PieChart
+ScatterPlot
